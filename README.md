@@ -1,1 +1,0 @@
-# ayurvedic-health-predictor
